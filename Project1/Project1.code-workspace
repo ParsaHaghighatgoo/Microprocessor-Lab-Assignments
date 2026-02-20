@@ -1,0 +1,40 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "Q1HW1",
+			"path": "../Q1HW1"
+		},
+		{
+			"name": "Q2HW2",
+			"path": "../Q2HW2"
+		},
+		{
+			"name": "HW2Q1",
+			"path": "../HW2Q1"
+		},
+		{
+			"name": "HW2Q2",
+			"path": "../HW2Q2"
+		},
+		{
+			"name": "HW3Q1",
+			"path": "../HW3Q1"
+		},
+		{
+			"name": "HW4Q1",
+			"path": "../HW4Q1"
+		},
+		{
+			"name": "HW5Q1",
+			"path": "../HW5Q1"
+		},
+		{
+			"name": "HW5Q2",
+			"path": "../HW5Q2"
+		}
+	],
+	"settings": {}
+}
